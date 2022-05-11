@@ -21,7 +21,7 @@ This is a web application developed as a capstone project for MIT xPRO course. T
 * Run `node index.js`
 * In your browser navigate to http://localhost:3000
 
-<img src="bandBank.png" width='500'/>
+<img src="badBank.png" width='500'/>
 
 ## Technology Used
 * JavaScript
