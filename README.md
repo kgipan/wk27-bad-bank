@@ -5,7 +5,7 @@
 * [Installation Guide](#installation-guide)
 * [Technology Used](#technology-used)
 * [Features](#features)
-* [License](#license
+* [License](#license)
 
 ## Description/Motivation
 This is a web application developed as a capstone project for MIT xPRO course. This application mimics the usability of a bank website with features such as: creating an account, login verification and authentication, depositing, withdrawing, and account information including balance. These features would be beneficial for any company or individual in need of creating user accounts with various pages that need to share data.
